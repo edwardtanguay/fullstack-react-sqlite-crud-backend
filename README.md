@@ -38,7 +38,7 @@ This is the starting point for the simplest fullstack CRUD site that has a datab
 - enter your project directory
 	- `cd site001`
 - create backend directory
-	- `git clone git@github.com:edwardtanguay/react-node-simple-admin-auth-backend.git site001-backend`
+	- `git clone git@github.com:edwardtanguay/fullstack-react-sqlite-crud-backend.git site001-backend`
 - open VSCode in the backend directory
 	- `code site001-backend`
 - open VSCode terminal
@@ -47,10 +47,12 @@ This is the starting point for the simplest fullstack CRUD site that has a datab
 	- `git npm -b main`
 	- make initial commit
 - create `.env` file with **any random characters** for the session secret, and an **admin password** you can remember
-	----------------------------
-	SESSION_SECRET = ksks2374skjdf
-	ADMIN_PASSWORD = pass828
-	----------------------------
+
+```text
+SESSION_SECRET = ksks2374skjdf
+ADMIN_PASSWORD = pass828
+```
+
 - install node_modules
 	- `npm i`
 - start the backend
@@ -68,7 +70,7 @@ This is the starting point for the simplest fullstack CRUD site that has a datab
 - enter your project directory
 	- `cd site001`
 - create frontend directory
-	- `git clone git@github.com:edwardtanguay/react-node-simple-admin-auth-frontend.git site001-frontend`
+	- `git clone git@github.com:edwardtanguay/fullstack-react-sqlite-crud-backend.git site001-frontend`
 - open VSCode in the frontend directory
 	- `code site001-frontend`
 - open VSCode terminal
