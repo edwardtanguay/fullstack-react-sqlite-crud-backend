@@ -85,7 +85,7 @@ ADMIN_PASSWORD = pass828
 	- `npm run dev`
 - open in browser
 	- click url in terminal
-- to distinguish your backend VSCode from your frontend VSCode, set the frame color
+- to distinguish your frontend VSCode from your backend VSCode, set the frame color
 	- you need the [VSCode Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 	- **F1**
 	- "Peacock: Enter a Color"
