@@ -59,11 +59,11 @@ ADMIN_PASSWORD = pass828
 	- `npm run dev`
 - open API in browser
 	- click url in terminal
-- to distinguish your backend VSCode from your frontend VSCode, set VSCode frame to "**b**lue for **b**ackend)
+- to distinguish your backend VSCode from your frontend VSCode, set the frame color
 	- you need the [VSCode Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 	- **F1**
 	- "Peacock: Enter a Color"
-	- `navy`
+	- `navy` (**b**lue for **b**ackend)
 
 ## install frontend
 
@@ -85,11 +85,11 @@ ADMIN_PASSWORD = pass828
 	- `npm run dev`
 - open in browser
 	- click url in terminal
-- to distinguish your backend VSCode from your backend VSCode, set VSCode frame to "**f**uchsia for **f**rontend)
+- to distinguish your backend VSCode from your frontend VSCode, set the frame color
 	- you need the [VSCode Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 	- **F1**
 	- "Peacock: Enter a Color"
-	- `purple`
+	- `purple` (**f**uchsia for **f**rontend)
 
 ## more starters, templates and frameworks
 
